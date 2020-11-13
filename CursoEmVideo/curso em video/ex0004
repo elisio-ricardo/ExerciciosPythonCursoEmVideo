@@ -1,0 +1,5 @@
+n1 = int(input('Digite um valor: '))
+n2 = int(n1 *2)
+n3 = int(n1 * 3)
+n4 = int(n1**0.5)
+print('O valor digitado é {}, seu dobro é {}, seu triplo é {} e sua raiz quadrada é {}' .format(n1, n2, n3, n4))
